@@ -1,8 +1,8 @@
-<H3>Name : RAJESH A </H3>
-<H3>Register no : 212222100042 </H3>
-<H3>Date : 21/03/2024</H3>
-<H3>Experiment No. 2 </H3>
-# Implementation of Perceptron for Binary Classification:
+# Experiment No. 2
+## Implementation of Perceptron for Binary Classification:
+### Name : RAJESH A
+### Register no : 212222100042
+### Date : 21/03/2024
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
